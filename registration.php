@@ -31,10 +31,10 @@
 <?php include_once "header.inc"; ?>
 
 	<?php
-	$host = "feenix-mariadb.swin.edu.au"; //local host or server name
-	$user = "s103165863"; // your user name
-	$pwd = "number42"; // your password 
-	$sql_db = "s103165863_db"; // your database
+	$host = "####"; //local host or server name
+	$user = "#####"; // your user name
+	$pwd = "######"; // your password 
+	$sql_db = "######"; // your database
 ?>
 
 
