@@ -1,2 +1,4 @@
 # Web Application
  Complete website development on the basic level, covering client-side and server-side programming.
+ 
+ The webpages consists of information on the topic- 'Web Services' with navigation within the page along the beginning of the display content. The other navigation is the left panel to redirect to the other pages of the website. There is a video and audio to elaborate on the topic. The quiz page records the participant and calculates their score and attempt number. Javascript is used to perform the calculation and data entry validation on this page, as well as the slideshow and timer display. The PHP and MySQL is used for the server-side programming to catelog the participants quiz attempts and scores to a secure database and the examiner's login details. Lastly, CSS was used for the styling and layout of the web pages' contents and features, especially the footnotes and navigation panel.
