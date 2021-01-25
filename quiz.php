@@ -8,7 +8,7 @@
 	<!--meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"-->
 
 		<title> An introduction to Web Services</title>
- 	<!--Additional jQuery libraries only in use for the enhancement javascript file implemented on this page, not for the essential requirements>
+ 	<Additional jQuery libraries only in use for the enhancement javascript file implemented on this page, not for the essential requirements>
 			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 			<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 			<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
@@ -20,7 +20,7 @@
 			<script src="scripts/enhancements.js"></script>
 
 		
-			<The CSS stylesheets from the previous assignment with minor additions-->
+			<The CSS stylesheets from the previous assignment with minor additions>
 			<link rel="stylesheet" href="styles/style.css" />
 			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
 
