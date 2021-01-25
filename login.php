@@ -1,6 +1,6 @@
 <?php
 /*
-* Author: Ayesha Shaikh 103165863
+* Author: Ayesha Shaikh 
 * Target: manage.php 
 * Purpose: Secure login option of user's with their username and password after registeration
 * Created: 20-10-2020
@@ -29,10 +29,10 @@
 	<?php include_once "header.inc"; ?>
 
 <?php
-	$host = "feenix-mariadb.swin.edu.au"; //local host or server name
-	$user = "s103165863"; // your user name
-	$pwd = "number42"; // your password 
-	$sql_db = "s103165863_db"; // your database
+	$host = "#####"; //local host or server name
+	$user = "#####"; // your user name
+	$pwd = "#####"; // your password 
+	$sql_db = "######"; // your database
 ?>
 
 
